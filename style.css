@@ -6,16 +6,19 @@
     width: 100%;
    
   }
-  
+  body {
+background-color: #3498DB ;
+
+  }
   h1 {
     text-align: center;
-    color: white;
+    color: black;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
   
   nav div {
-    background-color: #420d09;
-    color: white;
+    background-color: #85C1E9;
+    color: black;
     text-align: center;
     font-size: large;
     font-weight: bold;
@@ -26,11 +29,11 @@
 
   
   .sidebar {
-    background-color:  #420d09;
-    color: white;
+    background-color:  #85C1E9;
+    color: black;
     float: left;
     height: 575px;
-    width: 15%;
+    width: 20%;
     margin-top: 1%;
   }
   
